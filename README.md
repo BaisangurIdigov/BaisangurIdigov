@@ -1,4 +1,4 @@
-![HEADER](https://github.com/BaisangurIdigov/BaisangurIdigov/blob/main/assets/Bais.png)
+![HEADER](https://github.com/BaisangurIdigov/BaisangurIdigov/blob/main/assets/baisang.png)
 
 ## I am a fullstack web-developer in JavaScript
 
