@@ -1,5 +1,3 @@
-![HEADER](https://github.com/BaisangurIdigov/BaisangurIdigov/blob/main/assets/Bai.png)
-
 ## I am a fullstack web-developer in JavaScript
 
 <!-- YOUTUBE:START -->
